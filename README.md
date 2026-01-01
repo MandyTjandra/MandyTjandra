@@ -9,7 +9,7 @@
   </p>
 
 <p>
-    <a href="INSERT_YOUR_WEBSITE_LINK_HERE" target="_blank">
+    <a href="https://bit.ly/MandyTjandra" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
     </a>
   </p>
