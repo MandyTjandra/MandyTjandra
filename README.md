@@ -6,14 +6,15 @@
     <a href="https://linkedin.com/in/mandytjandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mandytjandra" height="30" width="40" /></a>
     <a href="https://instagram.com/mandy_tjandra05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mandy_tjandra05" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/mandytjandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mandytjandra" height="30" width="40" /></a>
+    <a href="https://www.spoj.com/users/mandy_173/" target="blank"><img align="center" src="https://img.shields.io/badge/SPOJ-000000?style=flat&logo=spoj&logoColor=white" alt="mandy_173" height="30" /></a>
   </p>
 
-<p>
+  <p>
     <a href="https://bit.ly/MandyTjandra" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit Portfolio" />
     </a>
   </p>
-  </div>
+</div>
 
 <hr/>
 
