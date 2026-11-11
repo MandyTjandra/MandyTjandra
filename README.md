@@ -13,17 +13,14 @@
     <a href="https://linkedin.com/in/mandytjandra" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:maitjandra05@gmail.com">
-      <img src="https://img.shields.io/badge/Email-maitjandra05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://github.com/MandyTjandra" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://leetcode.com/mandytjandra" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
     <a href="https://www.spoj.com/users/mandy_173/" target="_blank">
       <img src="https://img.shields.io/badge/SPOJ-000000?style=for-the-badge&logo=spoj&logoColor=white" alt="SPOJ" />
-    </a>
-    <a href="https://instagram.com/mandy_tjandra05" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 </div>
@@ -116,8 +113,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MandyTjandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" alt="Mandy's GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandyTjandra&layout=compact&theme=radical&border_radius=8" alt="Top Languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=MandyTjandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8" alt="Mandy's GitHub Stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MandyTjandra&layout=compact&theme=radical&border_radius=8" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
@@ -129,14 +126,14 @@
 ### 📫 Get In Touch
 
 <div align="center">
-  <p>I am always open to collaborating on innovative projects, game development experiments, and creative ideas.</p>
-  <a href="mailto:maitjandra05@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Email-maitjandra05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <p>I am always open to discussing new projects, creative ideas, or opportunities in game development and software engineering.</p>
   <a href="https://linkedin.com/in/mandytjandra" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://bit.ly/MandyTjandra" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Portfolio-bit.ly%2FMandyTjandra-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/MandyTjandra" target="_blank">
+    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
